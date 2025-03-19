@@ -11,3 +11,6 @@
 
 
 *¡Siempre aprendiendo y buscando nuevos retos!*
+
+
+📫 **Conéctate conmigo en LinkedIn:** [Edgar Torres](https://www.linkedin.com/in/edgartorres/)
