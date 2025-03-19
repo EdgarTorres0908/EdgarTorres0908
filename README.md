@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Edgar Torres 👋  
+ Ingeniero Electrónico | Desarrollador Full Stack  
+ Especializado en Node.js, React.js, MongoDB, Docker, Automatización e IoT  
+ Contacto: Edgartorres0908@gmail.com  
 
-<!--
-**EdgarTorres0908/EdgarTorres0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Tecnologías que uso:
+-  **Lenguajes:** JavaScript, C  
+-  **Backend:** Node.js, Express.js, MongoDB  
+-  **Frontend:** React.js, HTML, CSS  
+-  **Herramientas:** Git, Docker, Swagger, Mocha  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*¡Siempre aprendiendo y buscando nuevos retos!*
